@@ -2,7 +2,7 @@
 # README Generator
 
 ## Description
-Makes a README
+Creates README
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,22 +13,22 @@ Makes a README
 - [Questions](#questions)
 
 ## Installation
-undefined
+N/A
 
 ## Usage
 undefined
 
 ## License
-![License Badge](https://img.shields.io/badge/license-undefined-brightgreen)
-This application is covered under the undefined license.
+![License Badge](https://img.shields.io/badge/license-MIT-brightgreen)
+This application is covered under the MIT license.
 
 ## Contributing
 undefined
 
 ## Tests
-undefined
+N/A
 
 ## Questions
 For any questions, you can contact me:
-- GitHub: [undefined](https://github.com/undefined)
-- Email: undefined
+- GitHub: [Billyg04t](https://github.com/Billyg04t)
+- Email: shaun.leroyhigh@hotmail.com

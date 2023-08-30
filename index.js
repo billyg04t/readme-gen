@@ -56,7 +56,36 @@ inquirer
       name: 'description',
       message: 'Enter a description:'
     },
-
+    {
+        type: 'input',
+        name: 'installation',
+        message: 'Add steps for application installation:'
+    },
+    {
+        type: 'input',
+        name: 'license',
+        Message: ''
+    },
+    {
+        type: 'input',
+        name: 'contributors',
+        message: 'List soucres and contributors:'
+    },
+    {
+        type: 'input',
+        name: 'tests',
+        message: 'List tests for application:'
+    },
+    {
+        type: 'input',
+        name: 'username',
+        message: 'Add your GitHub username:'
+    },
+    {
+        type: 'input',
+        name: 'email',
+        message: 'Add your email:'
+    }
   ])
   .then(answers => {
     const readmeContent = generateREADME(answers);
