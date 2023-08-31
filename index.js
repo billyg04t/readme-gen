@@ -64,7 +64,7 @@ inquirer
     {
         type: 'input',
         name: 'license',
-        Message: ''
+        Message: 'Add the license for your application:'
     },
     {
         type: 'input',
