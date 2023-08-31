@@ -63,12 +63,17 @@ inquirer
     },
     {
         type: 'input',
+        name: 'usage',
+        message: 'Add steps for usage:'
+    },
+    {
+        type: 'input',
         name: 'license',
         Message: 'Add the license for your application:'
     },
     {
         type: 'input',
-        name: 'contributors',
+        name: 'contributing',
         message: 'List soucres and contributors:'
     },
     {

@@ -2,7 +2,7 @@
 # README Generator
 
 ## Description
-Creates README
+Generates README
 
 ## Table of Contents
 - [Installation](#installation)
@@ -30,5 +30,5 @@ N/A
 
 ## Questions
 For any questions, you can contact me:
-- GitHub: [Billyg04t](https://github.com/Billyg04t)
-- Email: shaun.leroyhigh@hotmail.com
+- GitHub: [username123](https://github.com/username123)
+- Email: email@email.com
