@@ -65,7 +65,7 @@ inquirer
         type: 'input',
         name: 'usage',
         message: 'Add steps for usage:'
-    }
+    },
     {
         type: 'input',
         name: 'license',
